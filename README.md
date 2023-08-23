@@ -1,6 +1,6 @@
 # OpenCore EFI for ASROCK-B450M-STEEL-LEGEND-HACKINTOSH
 
-![ReadmeImage](https://user-images.githubusercontent.com/82662657/211196303-43497dd5-d7bc-4e02-9bc7-fcab1347764a.png)
+![ReadmeImage](./screenshot.png)
 
 ## My Specification
 
